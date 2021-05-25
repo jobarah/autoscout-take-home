@@ -1,1 +1,5 @@
-# autoscout-take-home
+# Readme
+
+Requirements:
+node v14
+sqlite3
